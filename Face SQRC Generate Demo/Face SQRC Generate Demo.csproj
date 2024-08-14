@@ -216,9 +216,6 @@
     <Resource Include="Resources\refresh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Setting.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\dbGreen.png" />
   </ItemGroup>
   <ItemGroup>
