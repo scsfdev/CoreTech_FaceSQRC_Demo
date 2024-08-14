@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Face SQRC Generate Demo", "Face SQRC Generate Demo\Face SQRC Generate Demo.csproj", "{4A90A253-E63A-4A12-A74D-D42E45D82CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Face SQRC Validate Demo", "Face SQRC Validate Demo\Face SQRC Validate Demo.csproj", "{7981443F-69F7-4865-A203-DEC9413FDD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Debug|x64.ActiveCfg = Debug|x64
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Debug|x64.Build.0 = Debug|x64
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Release|x64.ActiveCfg = Release|x64
+		{4A90A253-E63A-4A12-A74D-D42E45D82CE4}.Release|x64.Build.0 = Release|x64
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Debug|x64.ActiveCfg = Debug|x64
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Debug|x64.Build.0 = Debug|x64
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Release|x64.ActiveCfg = Release|Any CPU
+		{7981443F-69F7-4865-A203-DEC9413FDD62}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {492846BD-5E43-4D19-B8CF-05F4880F2F2F}
+	EndGlobalSection
+EndGlobal

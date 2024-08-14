@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<core_tech>
+  <title>DENSO QR TECH DEMO</title>
+  <img_path>C:\Temp\Demo\</img_path>
+  <img_ext>PNG</img_ext>
+  <web_api_generate>https://api3.q-revo-test.com/api/FrameQRBulk</web_api_generate>
+  <sqrc_key>0123456789ABCDEF</sqrc_key>
+  <sqrc_expiry_days>1</sqrc_expiry_days>
+  <printer_com>COM3</printer_com>
+  <fr_scanner_com>COM4</fr_scanner_com>
+  <anti_scanner_com>COM5</anti_scanner_com>
+  <ur_scanner_com>COM6</ur_scanner_com>
+</core_tech>

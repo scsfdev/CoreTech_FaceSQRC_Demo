@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FR_Core_Tech_Demo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BACKUP_LOG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">backuplog.txt</Value>
+    </Setting>
+    <Setting Name="DEBUG_FLAG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TITLE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FACE SQRC CORE TECH DEMO</Value>
+    </Setting>
+    <Setting Name="IMG_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\temp\demo\</Value>
+    </Setting>
+    <Setting Name="IMG_EXT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PNG</Value>
+    </Setting>
+    <Setting Name="CAMERA_NO" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FR_SQRC_EXPIRY_DAYS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SQRC_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0123456789ABCDEF</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

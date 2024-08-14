@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FR_Validate_Demo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQRC_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0123456789ABCDEF</Value>
+    </Setting>
+    <Setting Name="TITLE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FACE SQRC CORE TECH DEMO - Validating</Value>
+    </Setting>
+    <Setting Name="DEBUG_FLAG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FR_SCANNER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">QK30-U</Value>
+    </Setting>
+    <Setting Name="CAMERA_NO" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FACE_CHECK_COUNT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="FACE_SUCCESS_COUNT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
